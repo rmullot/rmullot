@@ -19,16 +19,15 @@ I've completed technical assessments for several companies. You can review the a
 - **Leboncoin** → https://github.com/rmullot/LeBonCoin
 - **Lydia** → https://github.com/rmullot/Lydia
 
-I have kept the original implementations as much as possible. Post-assessment changes are limited to development tooling and maintenance, including **CocoaPods → SPM**, `CLAUDE.md`, and fixes for recent iOS versions.
-
-👉 If you're considering me for a technical role, **feel free to review these repositories before scheduling a technical interview**.
-
-The main changes I made afterwards were:
-- adding a `CLAUDE.md` file to provide context and development guidelines for AI-assisted development;
-- modernizing the build setup by migrating from CocoaPods to Swift Package Manager;
+I kept the original implementations as close to their submitted state as possible. The only changes made afterwards were to development tooling and maintenance:
+- adding a `CLAUDE.md` file to provide context and guidelines for AI-assisted development;
+- migrating the build setup from CocoaPods to Swift Package Manager;
 - cleaning up build warnings and compatibility issues with recent iOS versions.
 
-If you are evaluating my profile for a technical position, I strongly encourage you to review these repositories before scheduling a technical interview. This can provide a more objective assessment of my coding practices and technical skills, and potentially save valuable time for both sides.
+To check my skills on SwiftUI and Concurrency specifically:
+- **FoodScanner** → https://github.com/rmullot/FoodScanner
+
+👉 If you're evaluating my profile for a technical role, I encourage you to review these repositories before scheduling a technical interview — it gives a more objective read on my coding practices and can save valuable time on both sides.
 
 ### 🔭 Personal projects
 
