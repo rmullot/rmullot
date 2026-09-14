@@ -47,7 +47,7 @@ I'm currently working on several personal projects:
 - Kotlin Multiplatform (KMP) / Compose Multiplatform (CMP)
 
 ### 📫 Get in touch
-- my website: mullotromainei.com
+- my website (if you don't want to contact from a freelance platform): https://www.mullotromainei.com
 - on X: @mullotromainei
 - on bluesky: @mullotromainei.bsky.social
 - on threads; @mullotromainei
